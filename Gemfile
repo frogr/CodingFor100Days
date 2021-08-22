@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'devise'
 gem 'pry', '~> 0.13.1'
+gem 'pry-rails', group: :development
+
 gem 'rubocop', require: false
 
 group :development, :test do
